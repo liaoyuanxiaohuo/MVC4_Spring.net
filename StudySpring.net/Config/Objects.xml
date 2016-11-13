@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects xmlns="http://www.springframework.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <object id="readerDal" type="StudySpring.net.ReaderDAL, StudySpring.net">
+    <!--public string Title { get; set; }-->
+    <property name ="Title" value="分析MVC"></property>
+    <property name="UserName" value="王华"></property>
+  </object>
+
+</objects>
